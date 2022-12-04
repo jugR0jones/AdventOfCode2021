@@ -1,0 +1,17 @@
+C:\dev\Demos\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\dev\Demos\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Demos\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\dev\Demos\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\dev\Demos\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\dev\Demos\AdventOfCode2021\AdventOfCode2021\Utilities\obj\Debug\net6.0\ref\Utilities.dll
