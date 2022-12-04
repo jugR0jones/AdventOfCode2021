@@ -31,7 +31,7 @@ public static class FileUtils
             return null;
         }
     }
-
+    
     public static ValueTuple<TEnum, int>[] ReadFile<TEnum>(in string path) where TEnum : struct, System.Enum
     {
         char[] characterToSplitOn = {
